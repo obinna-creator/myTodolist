@@ -1,0 +1,2 @@
+this is my data output:"this is simple file text that we are going to read".
+ data created Fri Dec 08 2023 23:09:19 GMT+0100 (West Africa Standard Time)
